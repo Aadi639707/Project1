@@ -4,7 +4,7 @@ import google.generativeai as genai
 
 # YAHA APNE TOKENS DALEIN
 BOT_TOKEN = '8705783069:AAGAtEen6KY9et_oD0fyN73h1cfrAcEJSaU'
-GEMINI_API_KEY = 'AQ.Ab8RN6JQBbLNS5MIn3HTFWku2VQsPDV8tzN360mmLtFKOHmq4g'
+GEMINI_API_KEY = 'AQ.Ab8RN6KUMO7QPqQ-IRfxJz7wHX5y5J65Tk528vLERqQfkv6nIQ'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 genai.configure(api_key=GEMINI_API_KEY)
