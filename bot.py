@@ -3,7 +3,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import google.generativeai as genai
 
 # YAHA APNE TOKENS DALEIN
-BOT_TOKEN = 'Yaha_Apna_Telegram_Bot_Token_Dalein'
+BOT_TOKEN = '8705783069:AAGAtEen6KY9et_oD0fyN73h1cfrAcEJSaU'
 GEMINI_API_KEY = 'Yaha_Apni_Gemini_API_Key_Dalein'
 
 bot = telebot.TeleBot(BOT_TOKEN)
